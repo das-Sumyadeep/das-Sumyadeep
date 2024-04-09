@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @das-Sumyadeep
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Next.js, Typescript
 - 📫 How to reach me sumyadeepdas1000@gmail.com
 - 😄 Pronouns: him
 
