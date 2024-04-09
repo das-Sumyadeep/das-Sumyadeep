@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @das-Sumyadeep
+- ✌️ My Name is Sumyadeep Das
 - 👀 I’m interested in Full Stack Web Development
 - 📫 How to reach me sumyadeepdas1000@gmail.com
-- 😄 Pronouns: him
 
 <!---
 das-Sumyadeep/das-Sumyadeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
